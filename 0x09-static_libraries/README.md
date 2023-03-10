@@ -1,0 +1,1 @@
+a library is a file containing several object files, that can be used as a single entity in a linking phase of a program. When we work in a programming language like C, static libraries are collections of object files that are linked into the program during the linking phase of compilation.
