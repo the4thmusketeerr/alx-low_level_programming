@@ -1,0 +1,1 @@
+Dynamic libraries (also called shared libraries) are linked into the program in two stages. First, during compile time, the linker verifies that all the symbols (again, functions, variables, and the like) required by the program, are either linked into the program or in one of its dynamic libraries.
